@@ -11,16 +11,6 @@ Offizielle Download-Seite für **AIR Launcher** – einen schlanken, D-Pad-optim
 
 Die veröffentlichten Dateien in den [Releases](https://github.com/barezi5527/AIR-Launcher-Downloads/releases) dienen als offizielle Release-Ablage.
 
-## Screenshots
-
-| Design-Übersicht | Design-Ansicht (gescrollt) |
-| --- | --- |
-| ![AIR Launcher Design-Übersicht](screenshots/design-section.png) | ![AIR Launcher Design-Ansicht](screenshots/design-section-scrolled.png) |
-
-| Vorschau: Horizont | Vorschau: Halo |
-| --- | --- |
-| ![Design-Vorschau Horizont](screenshots/vorschlag-horizont.jpg) | ![Design-Vorschau Halo](screenshots/vorschlag-halo.jpg) |
-
 ## Highlights
 
 - **9 Designs:** Klassisch, Kino, Neon, Mono, Air-G, Air-L, Air-S+, Air-A, Air-S.
