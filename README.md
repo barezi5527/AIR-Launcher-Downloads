@@ -21,6 +21,16 @@ Auf manchen TV-Geräten lässt sich der Standard-Launcher nicht direkt umstellen
 - Zweck: Unterstützt beim Setzen eines alternativen Launchers als Standard-Startbildschirm auf Android-TV-/TV-Box-Geräten.
 - Vorgehen: App installieren, öffnen, AIR Launcher auswählen und als Standard-Launcher setzen. Die von der App angeforderten Berechtigungen/ADB-Schritte beachten.
 
+## Zurück zum Originalzustand
+
+Wenn ein Launcher-Manager oder ADB verwendet wurde, wird der vorinstallierte Launcher in der Regel nur **deaktiviert**, nicht gelöscht.
+
+- **Wieder aktivieren:** Auf dem TV-Gerät unter `Einstellungen → Apps → System-Apps anzeigen` den vorinstallierten Launcher auswählen und **Aktivieren**.
+- **Google TV Home:** `com.google.android.apps.tv.launcherx` – Standard-Startoberfläche auf Google-TV-Geräten.
+- **Android TV Home:** `com.google.android.tvlauncher` – Standard-Startoberfläche auf vielen Android-TV-Geräten.
+
+Nach der Aktivierung kann der vorinstallierte Launcher wieder als Standard-Startbildschirm gewählt werden; damit ist der ursprüngliche Zustand wiederhergestellt.
+
 ## Highlights
 
 - **9 Designs:** Klassisch, Kino, Neon, Mono, Air-G, Air-L, Air-S+, Air-A, Air-S.
