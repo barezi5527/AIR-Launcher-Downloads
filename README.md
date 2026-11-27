@@ -13,6 +13,14 @@ Offizielle Download-Seite für **AIR Launcher** – einen schlanken, D-Pad-optim
 
 > **Hinweis:** Installiere APKs nur aus dieser offiziellen Release-Quelle. Je nach Gerät muss die Installation aus unbekannten Quellen erlaubt werden.
 
+## Als Standard-Launcher festlegen
+
+Auf manchen TV-Geräten lässt sich der Standard-Launcher nicht direkt umstellen. In diesem Fall kann **TV Launcher Manager (ADB TV Box Tools)** helfen:
+
+- Play Store: [TV Launcher Manager / ADB TV Box Tools](https://play.google.com/store/apps/details?id=com.tv.launcher.manager.adb.tvboxtools&hl=gsw)
+- Zweck: Unterstützt beim Setzen eines alternativen Launchers als Standard-Startbildschirm auf Android-TV-/TV-Box-Geräten.
+- Vorgehen: App installieren, öffnen, AIR Launcher auswählen und als Standard-Launcher setzen. Die von der App angeforderten Berechtigungen/ADB-Schritte beachten.
+
 ## Highlights
 
 - **9 Designs:** Klassisch, Kino, Neon, Mono, Air-G, Air-L, Air-S+, Air-A, Air-S.
