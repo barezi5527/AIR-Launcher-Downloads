@@ -7,9 +7,11 @@ Offizielle Download-Seite für **AIR Launcher** – einen schlanken, D-Pad-optim
 
 ## Installation
 
-> **Wichtig:** Die Installation muss über die **Google Play Store App** erfolgen. Installationen über APK/ADB werden nicht unterstützt.
+1. Neueste APK unter [Releases](https://github.com/barezi5527/AIR-Launcher-Downloads/releases/latest) herunterladen.
+2. APK auf dem Android-TV-Gerät installieren (z. B. per Sideload/Dateimanager).
+3. AIR Launcher öffnen und ggf. als Standard-Startbildschirm einrichten.
 
-Die veröffentlichten Dateien in den [Releases](https://github.com/barezi5527/AIR-Launcher-Downloads/releases) dienen als offizielle Release-Ablage.
+> **Hinweis:** Installiere APKs nur aus dieser offiziellen Release-Quelle. Je nach Gerät muss die Installation aus unbekannten Quellen erlaubt werden.
 
 ## Highlights
 
